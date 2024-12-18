@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-commerce Platform",
+      "description": "A full-stack e-commerce platform built with React and Node.js, featuring user authentication, product management, and secure payment integration.",
+      "image": "https://imgs.search.brave.com/cKv5MFYZc-pV4JYo3WMPZXQqT0-J72y91VIPejaMtHA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE1/MDgzMDI2MS9waG90/by93aGF0cy1uZXh0/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1mUlBudEpaMFVW/eVpzU05qT3p0MzlC/UkhXb3A4MC1GcWoy/WU1CUmhRY2o4PQ",
+      "author": "John Doe",
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A collaborative task management application with real-time updates, team workspace, and progress tracking features.",
+      "image": "https://imgs.search.brave.com/jdAS-ILJMwvePo5sLqt5jyiZCsnJZ6fbZlFErxkWO7g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM1/NDA3Nzc5MC9waG90/by9tYW4td29ya2lu/Zy1hdC1ob21lLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1l/UHpwRzBKZ2lIZDRS/ODVKeW95eEluZGw0/dllRUDZhdnc5bk5K/NlpnZzh3PQ",
+      "author": "Jane Smith",
+      "location": "San Francisco"
+    },
+    {
+      "id": 3,
+      "title": "Social Media Dashboard",
+      "description": "An analytics dashboard for social media management, providing insights and metrics for multiple platforms.",
+      "image": "https://imgs.search.brave.com/ck5yRWjgUYCXRUM3AzefUlA5-CCJp87Kxhv8T2yIN1Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5jaW1hZ2VzLmNv/bS91cGxvYWRlZF9m/aWxlcy9pbWFnZS8x/OTIweDEwODAvcmVm/bGVjdGlvbi1wYW5v/XzIzNjgzLmpwZw",
+      "author": "Mike Johnson",
+      "location": "London"
+    },
+    {
+      "id": 4,
+      "title": "Fitness Tracking App",
+      "description": "A mobile-responsive fitness tracking application with workout plans, progress monitoring, and nutrition guidance.",
+      "image": "https://imgs.search.brave.com/-6ajkd_0zQHCDF-wd_LZTskOelbIrOYsYTguO6Pm_qo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzExLzExLzc5LzE4/LzM2MF9GXzExMTE3/OTE4MTNfMDhpbEZu/ckJReHowM09LazhO/djl3RHhHYndHTVh5/cEcuanBn",
+      "author": "Sarah Williams",
+      "location": "Toronto"
+    },
+       {
+      "id": 5,
+      "title": "Fitness Tracking App",
+      "description": "A mobile-responsive fitness tracking application with workout plans, progress monitoring, and nutrition guidance.",
+      "image": "https://imgs.search.brave.com/qJCilZgpobJwIyKTkCZYplklsEPiKVbNdSmeo59tNLI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA5LzQxLzQzLzQx/LzM2MF9GXzk0MTQz/NDEwM19xb3NYV2Jn/VWUxQ0c4ZTY4VXVN/aEtCVTJlZk5hZkox/dS5qcGc",
+      "author": "Sarah Williams",
+      "location": "Toronto"
+    },
+       {
+      "id": 6,
+      "title": "Fitness Tracking App",
+      "description": "A mobile-responsive fitness tracking application with workout plans, progress monitoring, and nutrition guidance.",
+      "image": "https://imgs.search.brave.com/x0Uj3cvYf2hpDDBfK8lPfh_Pd0s9SMhN1ilEYR-_yr0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTE5/NDM0NjY2L3Bob3Rv/L2dvaW5nLW92ZXIt/ZXZlcnktZGV0YWls/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz03aFc5VHkwRGE0/N3JsWnd0SmxLaHpv/RVIxREwxR04yQnlY/azdmTFk5SlpFPQ",
+      "author": "Sarah Williams",
+      "location": "Paris"
+    }
+    ,
+       {
+      "id": 7,
+      "title": "Helth Tracking App",
+      "description": "A mobile-responsive fitness tracking application with workout plans, progress monitoring, and nutrition guidance.",
+      "image": "https://imgs.search.brave.com/-6ajkd_0zQHCDF-wd_LZTskOelbIrOYsYTguO6Pm_qo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzExLzExLzc5LzE4/LzM2MF9GXzExMTE3/OTE4MTNfMDhpbEZu/ckJReHowM09LazhO/djl3RHhHYndHTVh5/cEcuanBn",
+      "author": "Sarah Williams",
+      "location": "India"
+    }
+  ]
+}
